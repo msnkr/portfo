@@ -1,0 +1,14 @@
+
+I offer:
+	web services;
+		websites using python, flask, django, html and APIs
+	data scraping;
+		data analysis for research purpose. Beautiful graphs with python using bokeh, seaborn, matplotlib
+	scripting and automation;
+		machine learning, selenium, useful everyday scripts and automated prrocesses so you can spend less time on the useless tasks
+	bots;
+		simple telegram, reddit bots to more complex algorithmic trading bots.
+
+I might not remember the complexity of the radix sort algorithm	but I'm good at Googling it.
+I have knowledge in Linux admin, windows system cyber security. In my spare time I do AI, machine learning and robotics using Raspberry Pi, arduino and BBC:Microbit controllers.
+	
